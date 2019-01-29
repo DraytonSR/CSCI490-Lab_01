@@ -1,4 +1,4 @@
-package com.example.dscott.simpletimer2;
+package com.example.dscott.simpletimer;
 
 import org.junit.Test;
 

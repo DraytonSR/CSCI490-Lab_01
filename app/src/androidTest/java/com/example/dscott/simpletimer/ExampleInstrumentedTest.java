@@ -1,4 +1,4 @@
-package com.example.dscott.simpletimer2;
+package com.example.dscott.simpletimer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
